@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Free Quote",
+    "description": "All clients recieve a free telephone consultation.",
+    "image": {
+      "url": "images/features/1Artboard 1.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Certified Engineers",
+    "description": "Electrical,Gas Safe, and F GAS engineers.",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Local and Independent",
+    "description": "We are proud to be a independent small business.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]
